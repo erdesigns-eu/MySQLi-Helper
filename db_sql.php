@@ -1,13 +1,13 @@
 <?php
 
 /**********************************************************************************/
-/*																				  */
-/*				dbSQL.php [ SQL Select, Insert, Update, Delete - Class ]		  */
-/*																				  */
-/*				Author	: Ernst Reidinga 										  */
-/*				Date 	: 18/01/2020 20:30								  		  */
-/*				Version	: 1.2												  	  */
-/*																				  */
+/*										  */
+/*	dbSQL.php [ SQL Select, Insert, Update, Delete - Class ]		  */
+/*										  */
+/*	Author	: Ernst Reidinga 						  */
+/*	Date 	: 18/01/2020 20:30						  */
+/*	Version	: 1.2								  */
+/*										  */
 /**********************************************************************************/
 
 class dbSQL {
